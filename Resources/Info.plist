@@ -15,7 +15,7 @@
     <key>LSMinimumSystemVersion</key><string>13.0</string>
     <key>LSApplicationCategoryType</key><string>public.app-category.graphics-design</string>
     <key>NSHighResolutionCapable</key><true/>
-    <key>NSHumanReadableCopyright</key><string>© Wudstyz — licence MIT</string>
+    <key>NSHumanReadableCopyright</key><string>© 2026 Damien Pollet (Wudstyz) — licence MIT</string>
     <key>CFBundleDocumentTypes</key>
     <array>
         <dict>
