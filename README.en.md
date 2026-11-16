@@ -111,6 +111,10 @@ Handy: `VERSION=1.1 ./build_app.sh`. To test without touching your library: `VIE
 
 Ideas, bug reports and pull requests are welcome: open an issue describing the file format and what happened (attaching a test file, if not confidential, helps a lot).
 
+## Author
+
+**Damien Pollet**, alias **Wudstyz** on GitHub.
+
 ## License
 
-[MIT](LICENSE) © 2026 Wudstyz. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Mentioned trademarks belong to their owners; this project is not affiliated with any of them.
+[MIT](LICENSE) © 2026 Damien Pollet (Wudstyz). See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Mentioned trademarks belong to their owners; this project is not affiliated with any of them.

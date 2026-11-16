@@ -109,6 +109,10 @@ Variables utiles : `VERSION=1.1 ./build_app.sh`. Pour tester sans toucher à vot
 
 Les idées, rapports de bugs et pull requests sont les bienvenus : ouvrez une *issue* en décrivant le format du fichier et ce qui s'est passé (joindre un fichier de test, s'il n'est pas confidentiel, aide beaucoup).
 
+## Auteur
+
+**Damien Pollet**, alias **Wudstyz** sur GitHub.
+
 ## Licence
 
-[MIT](LICENSE) © 2026 Wudstyz. Voir [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Les marques citées appartiennent à leurs propriétaires ; ce projet n'est affilié à aucun d'eux.
+[MIT](LICENSE) © 2026 Damien Pollet (Wudstyz). Voir [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Les marques citées appartiennent à leurs propriétaires ; ce projet n'est affilié à aucun d'eux.
